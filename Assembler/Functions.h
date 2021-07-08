@@ -1,3 +1,7 @@
+/*
+Function dump
+*/
+
 //void options_bar(char l1[], char l2[], char l3[], char l4[], char l5[]) {
 void options_bar(char label[5][8]) { 
     gfx_SetColor(255);
