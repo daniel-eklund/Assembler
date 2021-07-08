@@ -12,20 +12,20 @@ Currently redesigning the editor window to fix recursive calls to the main edito
 (nested input requires a lot of memory). Also working on dynamic memory versus a static 
 partition on calculator.
 
-Things currently to do:&nbsp;
-//Main menu&nbsp;
-    //Open project&nbsp;
-    //Rename project/files&nbsp;
-    //Add files&nbsp;
-    //Delete files&nbsp;
-    //Open file&nbsp;
-    //Read & write appvars&nbsp;
-//Editor&nbsp;
-    //clear and restore previous page on exit&nbsp;
-        //more than 1 val box_type is broken&nbsp;
-    //fix and add box_type values&nbsp;
-    //fix and add no label option&nbsp;
-&nbsp;
+Things currently to do:  
+//Main menu  
+    //Open project  
+    //Rename project/files  
+    //Add files  
+    //Delete files  
+    //Open file  
+    //Read & write appvars  
+//Editor  
+    //clear and restore previous page on exit  
+        //more than 1 val box_type is broken  
+    //fix and add box_type values  
+    //fix and add no label option  
+  
 //Text editor&nbsp;
 //-------------------&nbsp;
 //Spaces are 3? pixels, versus 1&nbsp;
