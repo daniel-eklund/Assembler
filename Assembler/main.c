@@ -1,3 +1,9 @@
+/*
+Sets up graphic settings,
+Runs main editor window
+Assembles and quits
+*/
+
 #include <tice.h>
 #include <graphx.h>
 #include <stdlib.h>
