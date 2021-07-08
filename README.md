@@ -12,56 +12,55 @@ Currently redesigning the editor window to fix recursive calls to the main edito
 (nested input requires a lot of memory). Also working on dynamic memory versus a static 
 partition on calculator.
 
-Things currently to do:
-//Main menu
-    //Open project
-    //Rename project/files
-    //Add files
-    //Delete files
-    //Open file
-    //Read & write appvars
-//Editor
-    //clear and restore previous page on exit
-        //more than 1 val box_type is broken
-    //fix and add box_type values
-    //fix and add no label option
+Things currently to do:&nbsp;
+//Main menu&nbsp;
+    //Open project&nbsp;
+    //Rename project/files&nbsp;
+    //Add files&nbsp;
+    //Delete files&nbsp;
+    //Open file&nbsp;
+    //Read & write appvars&nbsp;
+//Editor&nbsp;
+    //clear and restore previous page on exit&nbsp;
+        //more than 1 val box_type is broken&nbsp;
+    //fix and add box_type values&nbsp;
+    //fix and add no label option&nbsp;
+&nbsp;
+//Text editor&nbsp;
+//-------------------&nbsp;
+//Spaces are 3? pixels, versus 1&nbsp;
+//Remove scroll on insert&nbsp;
+//Add option buttons (Graph row) graphics&nbsp;
+    //cut & paste&nbsp;
+    //clear row&nbsp;
+    //clear up to cursor&nbsp;
+    //save & exit to menu&nbsp;
+//Add options menu&nbsp;
+    //Select box color&nbsp;
+    //Cursor color&nbsp;
+    //Syntax highlighting, add options&nbsp;
+    //Line number&nbsp;
+//Add labels box, jump to/paste&nbsp;
+//Add symbol selector&nbsp;
+//Add useful call selector&nbsp;
+//Fix line numbers, fixed size, 3 digits?&nbsp;
+//tabs for multiple files&nbsp;
 
-//Text editor
-//-------------------
-//Spaces are 3? pixels, versus 1
-//Remove scroll on insert
-//Add option buttons (Graph row) graphics
-    //cut & paste
-    //clear row
-    //clear up to cursor
-    //save & exit to menu
-//Add options menu 
-    //Select box color
-    //Cursor color
-    //Syntax highlighting, add options
-    //Line number
-//Add labels box, jump to/paste
-//Add symbol selector
-//Add useful call selector
-//Fix line numbers, fixed size, 3 digits?
-//tabs for multiple files
-
-//Assembler
-//-------------------
-//Errors
-    //draw gui
-        //show line number and error
-    //No label defined
-    //No ret
-    //call address not on defined
-    //labels need to have :
-//Display bar for progress
-//Doesn't assembler if any errors
-//.db, .dw, .BYTE, .WORD
-    //string parsing
-    //value parsing
-    //each seperated by ,
-//#define, .equ
-//Add all the opcodes :D  
-//; comments
+//Assembler&nbsp;
+//-------------------&nbsp;
+//Errors&nbsp;
+    //draw gui&nbsp;
+        //show line number and error&nbsp;
+    //No label defined&nbsp;
+    //No ret&nbsp;
+    //call address not on defined&nbsp;
+    //labels need to have :&nbsp;
+//Display bar for progress&nbsp;
+//Doesn't assembler if any errors&nbsp;
+//.db, .dw, .BYTE, .WORD&nbsp;
+    //string parsing&nbsp;
+    //value parsing&nbsp;
+    //each seperated by ,&nbsp;
+//#define, .equ&nbsp;
+//Add rest of the opcodes&nbsp;
 //Program is a locked file
