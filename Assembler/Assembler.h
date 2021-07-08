@@ -1,4 +1,10 @@
-
+/*
+This is the 2 pass assembler code. 
+1: Ensures all labels and var names are valid
+2: Takes each line and parses instructions, converting to hex
+---
+Pastes the hex into a ti-84 assembly program.
+*/
 void assembler() {
     gfx_SetTextBGColor(255);
     gfx_SetTextFGColor(0);
