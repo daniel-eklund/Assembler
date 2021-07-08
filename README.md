@@ -37,8 +37,8 @@ Text editor:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-Add options menu  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-Select box color  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;>Cursor color  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;>Syntax highlighting, add options  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;>Line number : Looks bad right now 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;>Syntax highlighting, add options   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;>Line number : Looks bad right now  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-Add labels box, jump to/paste : Jump works? Fix recursive returns  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-Add symbol selector : Forgot what this means  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-Add useful call selector  
